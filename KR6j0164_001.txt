@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:04.081248
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:26
 #+TITLE: 于瑟抳沙毘左野陀囉尼
 #+PROPERTY: CBETA_ID T19n0979
 #+PROPERTY: ID KR6j0164
